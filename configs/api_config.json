@@ -1,1 +1,7 @@
-
+{
+  "api_url": "https://jsonplaceholder.typicode.com/posts",
+  "method": "GET",
+  "headers": {},
+  "pagination": false,
+  "primary_key": "id"
+}
